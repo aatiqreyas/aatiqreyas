@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aatiq Reyas</h1>
-<h3 align="center">A passionate developer from India, learning coding.</h3>
+<h3 align="center">A upcoming developer from India, learning coding right now.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatiqreyas&label=Profile%20views&color=0e75b6&style=flat" alt="aatiqreyas" /> </p>
 

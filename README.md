@@ -21,5 +21,7 @@
 <a href="https://discord.gg/9wgwVtSdQ3" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1392864511669854217/dBymBmGq_400x400.jpg" alt="9wgwVtSdQ3" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="python" width="40" height="40"/> </a> </p>

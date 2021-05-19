@@ -23,5 +23,5 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<h3 align="left">Languages:</h3>
+<h3 align="left">Tools I use:</h3>
 <p align="left"> <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="python" width="40" height="40"/> </a> </p>

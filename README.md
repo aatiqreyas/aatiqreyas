@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **aatiqreyas@gmail.com**
 
-- ⚡ Fun fact **I use too much XD.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aatiqreyas" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_400x400.jpg" alt="aatiqreyas" height="40" width="40" /></a>

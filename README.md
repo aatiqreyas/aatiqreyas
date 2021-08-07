@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatiqreyas&label=Profile%20views&color=0e75b6&style=flat" alt="aatiqreyas" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aatiqreyas" target="blank"><img src="https://img.shields.io/twitter/follow/aatiqreyas?logo=twitter&style=for-the-badge" alt="aatiqreyas" /></a> </p>
+<p align="right"><a href="https://www.youtube.com/channel/UCqrbol6mVarxUaqfh81urgA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCqrbol6mVarxUaqfh81urgA?label=Subscribe%20%40aatiqreyas&style=for-the-badge" alt="aatiqreyas" /></a> </p>
 
 - 🌱 I’m currently learning **Python.**
 

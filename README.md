@@ -14,10 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aatiqreyas" target="blank"><img align="center" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" height="40" width="40" /></a>
-<a href="https://instagram.com/aatiq_reyas" target="blank"><img align="center" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="aatiq_reyas" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/aatiq reyas" target="blank"><img align="center" src="https://www.youtube.com/s/desktop/d40906f2/img/favicon_144x144.png" alt="aatiq reyas" height="40" width="40" /></a>
-<a href="https://linktr.ee/aatiq_reyas" target="blank"><img align="center" src="https://d1nnwinjc04txl.cloudfront.net/icons/icon-144x144.png?v=530918d2c86b9dd11c4fde40fa99d1b4" alt="aatiqreyas" height="40" width="40" /></a>
+<a href="https://linktr.ee/aatiq_reyas" target="blank"><img align="center" src="https://d1nnwinjc04txl.cloudfront.net/icons/icon-144x144.png?v=530918d2c86b9dd11c4fde40fa99d1b4" alt="aatiqreyas" height="40" width="40" /></a> **LINKTREE**
 </p>
 
 <h3 align="left">Languages:</h3>

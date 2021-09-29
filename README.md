@@ -16,8 +16,8 @@
 <p align="left">
 <a href="https://twitter.com/aatiqreyas" target="blank"><img align="center" src="https://aatiqreyas.me/assets/github-profile/twitter.png" alt="aatiqreyas" height="40" width="40" /></a>
 <a href="https://instagram.com/aatiq_reyas" target="blank"><img align="center" src="https://aatiqreyas.me/assets/github-profile/instagram.png" alt="aatiq_reyas" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/aatiq reyas" target="blank"><img align="center" src="https://aatiqreyas.me/assets/github-profile/twitter.png" alt="aatiq reyas" height="40" width="40" /></a>
-<a href="https://linktr.ee/aatiq_reyas" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1242717213225672704/zW9W_sU0_400x400.jpg" alt="aatiqreyas" height="40" width="40" /></a>
+<a href="https://www.youtube.com/c/aatiq reyas" target="blank"><img align="center" src="https://aatiqreyas.me/assets/github-profile/youtube.png" alt="aatiq reyas" height="40" width="40" /></a>
+<a href="https://linktr.ee/aatiq_reyas" target="blank"><img align="center" src="https://aatiqreyas.me/assets/github-profile/linktree.png" alt="aatiqreyas" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>

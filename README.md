@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aatiqreyas" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_400x400.jpg" alt="aatiqreyas" height="40" width="40" /></a>
-<a href="https://instagram.com/aatiq_reyas" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1306051401236099072/nuSA8oqW_400x400.jpg" alt="aatiq_reyas" height="40" width="40" /></a>
+<a href="https://instagram.com/aatiq_reyas" target="blank"><img align="center" src="https://aatiqreyas.me/assets/github-profile/instagram.png" alt="aatiq_reyas" height="40" width="40" /></a>
 <a href="https://www.youtube.com/c/aatiq reyas" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1427292844612595720/RC1YSvuT_400x400.jpg" alt="aatiq reyas" height="40" width="40" /></a>
 <a href="https://linktr.ee/aatiq_reyas" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1242717213225672704/zW9W_sU0_400x400.jpg" alt="aatiqreyas" height="40" width="40" /></a>
 </p>

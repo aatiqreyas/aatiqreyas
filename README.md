@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aatiq Reyas</h1>
-<h3 align="center">A upcoming developer from India, learning to code right now.</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <a href="https://github.com/aatiqreyas" target="blank"><img src="https://komarev.com/ghpvc/?username=aatiqreyas&color=blueviolet&style=flat-square" alt="aatiqreyas" /> </p>
 

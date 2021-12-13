@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="css" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://www.w3.org/html/logo/img/mark-only-icon.png" alt="html" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://thumbs.dreamstime.com/b/javascript-icon-logo-javascript-often-abbreviated-as-js-programming-language-conforms-to-ecmascript-specification-204759326.jpg" alt="js" width="40" height="40"/> </a> </p>
 <h3 align="left">Tools I use:</h3>

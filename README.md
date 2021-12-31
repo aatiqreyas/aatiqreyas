@@ -24,8 +24,8 @@
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a> </p>
 
-<h3 align="right">Preffered Domain Registrars</h3>
-<p align="right"> <a href="https://www.namecheap.com/" target="_blank"> <img src="https://www.namecheap.com/assets/img/nc-icon/favicon.ico" alt="python" width="40" height="40"/> </a>
+<h3 align="left">Preffered Domain Registrars</h3>
+<p align="left"> <a href="https://www.namecheap.com/" target="_blank"> <img src="https://www.namecheap.com/assets/img/nc-icon/favicon.ico" alt="python" width="40" height="40"/> </a>
 <a href="https://domains.google/" target="_blank"> <img src="https://domains.google/favicon-192x192.png" alt="css" width="40" height="40"/> </a></p>
 
 <h3 align="left">Tools I use:</h3>

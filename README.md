@@ -23,5 +23,10 @@
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a> </p>
+
+<h3 align="right">Preffered Domain Registrars</h3>
+<p align="right"> <a href="https://www.namecheap.com/" target="_blank"> <img src="https://www.namecheap.com/assets/img/nc-icon/favicon.ico" alt="python" width="40" height="40"/> </a>
+<a href="https://domains.google/" target="_blank"> <img src="https://domains.google/favicon-192x192.png" alt="css" width="40" height="40"/> </a></p>
+
 <h3 align="left">Tools I use:</h3>
 <p align="left"> <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="ae" width="40" height="40"/> </a> </p>

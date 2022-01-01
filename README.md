@@ -10,7 +10,7 @@
 
 - 🗣️ Ask me about **Video Editing**
 
-- ✉️ How to reach me **aatiqreyas@gmail.com**
+- ✉️ How to reach me **aatiq@email.com**
 
 - 🌴 **Fun Fact:** Most of my repos are private...
 <h3 align="left">Connect with me:</h3>

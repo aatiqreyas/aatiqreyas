@@ -13,6 +13,8 @@
 - ✉️ How to reach me **aatiq@email.com / aatiqreyas@gmail.com**
 
 - 🌴 **Fun Fact:** Most of my repos are private...
+
+- 🌊 Know a shit ton of lot about **discord** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linktr.ee/aatiq_reyas" target="blank"><img align="center" src="https://d1nnwinjc04txl.cloudfront.net/icons/icon-144x144.png?v=530918d2c86b9dd11c4fde40fa99d1b4" alt="aatiqreyas" height="40" width="40" /></a>

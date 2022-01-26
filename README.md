@@ -10,8 +10,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=62y8adwywqeeg8g4et8gbifdo&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-</br>
-
 ### Languages and Tools:
 <p align="left">
 <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />

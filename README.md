@@ -6,29 +6,25 @@
 <p align="left"> <a href="https://twitter.com/aatiqreyas" target="blank"><img src="https://img.shields.io/twitter/follow/aatiqreyas?logo=twitter&style=for-the-badge" alt="aatiqreyas" /></a> </p>
 <p align="left"><a href="https://www.youtube.com/channel/UCqrbol6mVarxUaqfh81urgA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCqrbol6mVarxUaqfh81urgA?label=Subscribe%20%40aatiqreyas&style=for-the-badge" alt="aatiqreyas" /></a> </p>
 
-- 🌱 I’m currently learning **Python.**
+### Discord Status
+<a href="https://discord.com/users/927585338187198534">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/927585338187198534.png" />
+</a>
 
-- 🗣️ Ask me about **Video Editing**
+</br>
 
-- ✉️ How to reach me **aatiq@email.com / aatiqreyas@gmail.com**
-
-- 🌴 **Fun Fact:** Most of my repos are private...
-
-- 🌊 I know a alot about discord :)
-<h3 align="left">Connect with me:</h3>
+### Languages and Tools:
 <p align="left">
-<a href="https://linktr.ee/aatiq_reyas" target="blank"><img align="center" src="https://d1nnwinjc04txl.cloudfront.net/icons/icon-144x144.png?v=530918d2c86b9dd11c4fde40fa99d1b4" alt="aatiqreyas" height="40" width="40" /></a>
+<img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
+<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
+<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
 </p>
+<br />
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Preffered Domain Registrars</h3>
-<p align="left"> <a href="https://www.namecheap.com/" target="_blank"> <img src="https://www.namecheap.com/assets/img/nc-icon/favicon.ico" alt="python" width="40" height="40"/> </a>
-<a href="https://domains.google/" target="_blank"> <img src="https://domains.google/favicon-192x192.png" alt="css" width="40" height="40"/> </a></p>
-
-<h3 align="left">Tools I use:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="ae" width="40" height="40"/> </a> </p>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+</br>
+<img align="center" alt="Aatiq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aatiqreyas&show_icons=true&locale=en&theme=dark&layout=compact" />

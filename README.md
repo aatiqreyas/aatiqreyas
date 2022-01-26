@@ -10,7 +10,8 @@
 <a href="https://discord.com/users/927585338187198534">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/927585338187198534.png" />
 </a>
-
+### Spotify Now Playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=62y8adwywqeeg8g4et8gbifdo&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </br>
 
 ### Languages and Tools:

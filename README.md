@@ -25,6 +25,6 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 </br>
 <img align="center" alt="Aatiq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aatiqreyas&show_icons=true&locale=en&theme=dark&layout=compact" />

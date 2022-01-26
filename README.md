@@ -6,6 +6,11 @@
 <p align="left"> <a href="https://twitter.com/aatiqreyas" target="blank"><img src="https://img.shields.io/twitter/follow/aatiqreyas?logo=twitter&style=for-the-badge" alt="aatiqreyas" /></a> </p>
 <p align="left"><a href="https://www.youtube.com/channel/UCqrbol6mVarxUaqfh81urgA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCqrbol6mVarxUaqfh81urgA?label=Subscribe%20%40aatiqreyas&style=for-the-badge" alt="aatiqreyas" /></a> </p>
 
+### Discord Status
+
+![discord-github-profile](https://discord.c99.nl/widget/theme-4/927585338187198534.png)
+
+
 ### Spotify Now Playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=62y8adwywqeeg8g4et8gbifdo&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=62y8adwywqeeg8g4et8gbifdo&redirect=true)

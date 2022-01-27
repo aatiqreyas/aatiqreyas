@@ -7,8 +7,11 @@
 <p align="left"><a href="https://www.youtube.com/channel/UCqrbol6mVarxUaqfh81urgA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCqrbol6mVarxUaqfh81urgA?label=Subscribe%20%40aatiqreyas&style=for-the-badge" alt="aatiqreyas" /></a> </p>
 
 ### Discord Status
+<a href="https://discord.com/users/927585338187198534">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/927585338187198534.png" />
+</a>
 
-![discord-github-profile](https://discord.c99.nl/widget/theme-4/927585338187198534.png)
+</br>
 
 
 ### Spotify Now Playing

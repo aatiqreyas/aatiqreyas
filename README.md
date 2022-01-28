@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
-<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><a href="https://github.com/aatiqreyas" target="blank"><img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
+<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
 </p>
 <br />

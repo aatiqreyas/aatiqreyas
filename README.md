@@ -16,7 +16,7 @@
 
 ### Spotify Now Playing
 
-![spotify-github-profile](https://nowplaying.aidenwallis.co.uk/61f34dc3eb8c3d6e60bcb391)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=62y8adwywqeeg8g4et8gbifdo&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=62y8adwywqeeg8g4et8gbifdo&redirect=true)
 
 ### Languages and Tools:
 <p align="left">

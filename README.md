@@ -13,11 +13,6 @@
 
 </br>
 
-
-### Spotify Now Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=62y8adwywqeeg8g4et8gbifdo&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=62y8adwywqeeg8g4et8gbifdo&redirect=true)
-
 ### Languages and Tools:
 <p align="left">
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />

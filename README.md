@@ -8,7 +8,7 @@
 
 ### Discord
 <a href="https://discord.com/users/875068210360233995">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/927585338187198534.png" />
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/875068210360233995.png" />
 </a>
 
 </br>

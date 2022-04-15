@@ -11,6 +11,9 @@
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/875068210360233995.png" />
 </a>
 
+### Total No. of Repos
+<p align="left"> <p> 21 </p>
+
 </br>
 
 ### Languages and Tools:

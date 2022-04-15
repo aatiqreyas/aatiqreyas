@@ -14,8 +14,6 @@
 ### Total No. of Repos
 <p align="left"> <p> 21 </p>
 
-</br>
-
 ### Languages and Tools:
 <p align="left">
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />

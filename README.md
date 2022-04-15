@@ -12,7 +12,7 @@
 </a>
 
 ### Total No. of Repos
-<p align="left"> <p> 21 </p>
+**21**
 
 ### Languages and Tools:
 <p align="left">

@@ -12,7 +12,7 @@
 </a>
 
 ### Total No. of Repos
-**21** **(20 Private)** 😂
+**21**
 
 ### Languages and Tools:
 <p align="left">

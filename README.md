@@ -11,9 +11,6 @@
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/875068210360233995.png" />
 </a>
 
-### Total No. of Repos
-**21**
-
 ### Languages and Tools:
 <p align="left">
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />

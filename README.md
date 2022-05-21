@@ -19,11 +19,3 @@
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
 </p>
 <br />
-
----
-
-<details>
-  <summary>GitHub Stats</summary>
-</br>
-<img align="center" alt="Aatiq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aatiqreyas&show_icons=true&bg_color=35,002880,3059b3,4ab2c7,007f99&text_color=FFF&theme=dark&custom_title=Aatiq%27s%20GitHub%20stats&hide_border=true&border_radius=10" 
-/>

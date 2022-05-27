@@ -6,11 +6,6 @@
 <p align="left"> <a href="https://twitter.com/aatiqreyas" target="blank"><img src="https://img.shields.io/twitter/follow/aatiqreyas?logo=twitter&style=for-the-badge" alt="aatiqreyas" /></a> </p>
 <p align="left"><a href="https://www.youtube.com/channel/UCqrbol6mVarxUaqfh81urgA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCqrbol6mVarxUaqfh81urgA?label=Subscribe%20%40aatiqreyas&style=for-the-badge" alt="aatiqreyas" /></a> </p>
 
-### Discord (Temporarily Disabled)
-<a href="https://discord.com/users/875068210360233995">
-<img height="80px" src="https://www.howtogeek.com/wp-content/uploads/2021/07/Discord-Logo-Lede.png" />
-</a>
-
 ### Languages and Tools:
 <p align="left">
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />

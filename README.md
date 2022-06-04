@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/aatiqreyas" target="blank"><img src="https://komarev.com/ghpvc/?username=aatiqreyas&color=blueviolet&style=flat-square" alt="aatiqreyas" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aatiqreyas" target="blank"><img src="https://img.shields.io/twitter/follow/aatiqreyas?logo=twitter?style=for-the-badge&color=fedcba" alt="aatiqreyas" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aatiqreyas" target="blank"><img src="https://img.shields.io/badge/aatiqreyas-black?logo=twitter?style=for-the-badge" alt="aatiqreyas" /></a> </p>
 <p align="left"><a href="https://www.youtube.com/channel/UCqrbol6mVarxUaqfh81urgA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCqrbol6mVarxUaqfh81urgA?label=Subscribe%20%40aatiqreyas&style=for-the-badge" alt="aatiqreyas" /></a> </p>
 
 ### Languages and Tools:

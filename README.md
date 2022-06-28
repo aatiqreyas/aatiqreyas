@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Aatiq Reyas</h1>
 <h3 align="center"></h3>
 
-<p align="left"> <a href="https://github.com/aatiqreyas" target="blank"><img src="https://komarev.com/ghpvc/?username=aatiqreyas&color=000000&style=for-the-badge" alt="aatiqreyas" /> </p>
-
 <p align="left"> <a href="https://twitter.com/aatiqreyas" target="blank"><img src="https://img.shields.io/badge/aatiqreyas-black?style=for-the-badge&logo=twitter" /></a> </p>
 
 <p align="left"> <a href="https://discord.gg/pega" target="blank"><img src="https://img.shields.io/badge/Join Discord-black?style=for-the-badge&logo=discord" /></a> </p>

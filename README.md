@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aatiq Reyas</h1>
-<h3 align="center"></h3>
+<h3 align="center">Discord:</h3>
 
 
 <p align="center"> <a href="https://discord.com/users/934852457182421033" target="blank"><img src="https://lanyard.cnrad.dev/api/934852457182421033" /></a> </p>

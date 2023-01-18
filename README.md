@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/aatiqreyas" target="blank"><img src="https://img.shields.io/badge/aatiqreyas-black?style=for-the-badge&logo=twitter" /></a> </p>
 
-<p align="left"> <a href="https://discord.gg/nimda" target="blank"><img src="https://img.shields.io/badge/Join Discord-black?style=for-the-badge&logo=discord" /></a> </p>
+<p align="left"> <a href="https://discord.gg/subho" target="blank"><img src="https://img.shields.io/badge/Join Discord-black?style=for-the-badge&logo=discord" /></a> </p>
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/934852457182421033)](https://discord.com/users/934852457182421033)
 ### Languages and Tools:
 <p align="left">
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />

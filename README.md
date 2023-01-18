@@ -2,7 +2,7 @@
 <h3 align="center">Discord:</h3>
 
 
-<p align="center"> <a href="https://discord.com/users/934852457182421033" target="blank"><img src="https://lanyard.cnrad.dev/api/934852457182421033" /></a> </p>
+<p align="center"> <a href="https://discord.com/users/934852457182421033" target="blank"><img src="https://lanyard-profile-readme.vercel.app/api/934852457182421033?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=50px&idleMessage=Probably%20Sleeping..." /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aatiqreyas" target="blank"><img src="https://img.shields.io/badge/aatiqreyas-black?style=for-the-badge&logo=twitter" /></a> </p>
 

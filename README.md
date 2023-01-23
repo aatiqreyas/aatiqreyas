@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Aatiq Reyas</h1>
 <h3 align="center">Discord:</h3>
 
 

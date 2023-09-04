@@ -1,4 +1,4 @@
-<p align="left"> <a href="https://twitter.com/aatiqreyas" target="blank"><img src="https://img.shields.io/badge/aatiqreyas-black?style=for-the-badge&logo=x" /></a> </p>
+<p align="left"> <a href="https://x.com/aatiqreyas" target="blank"><img src="https://img.shields.io/badge/aatiqreyas-black?style=for-the-badge&logo=x" /></a> </p>
 
 ### Languages:
 <p align="left">

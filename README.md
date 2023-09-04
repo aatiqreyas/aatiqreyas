@@ -4,7 +4,6 @@
 <p align="left">
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c" />
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" />
-<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/Discord.py-black?style=for-the-badge&logo=discord" />
 </p>
 
 <p>

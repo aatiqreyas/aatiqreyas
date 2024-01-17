@@ -4,9 +4,11 @@
 <p align="left">
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c" />
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" />
+<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B"/>
 </p>
 
 <p>
   <h4 align="left">Currently Learning</h4>
-  <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B"/>
+  <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=c%2B%2B"/>
+<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=c%2B%2B"/>
 <br />

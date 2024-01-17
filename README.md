@@ -9,6 +9,6 @@
 
 <p>
   <h4 align="left">Currently Learning</h4>
-  <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java"/>
+  <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk"/>
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php"/>
 <br />

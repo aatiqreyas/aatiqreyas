@@ -25,9 +25,9 @@
       <img class="skill-badge" src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c" alt="C">
       <img class="skill-badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt="Python">
       <img class="skill-badge" src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B" alt="C++">
-      <img class="skill-badge" src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html" alt="HTML">
+      <img class="skill-badge" src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=htmx" alt="HTML">
 <br>
-      <img class="skill-badge" src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css" alt="CSS">
+      <img class="skill-badge" src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3" alt="CSS">
       <img class="skill-badge" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" alt="MySQL">
       <img class="skill-badge" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk" alt="Java">
       <img class="skill-badge" src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php" alt="PHP">

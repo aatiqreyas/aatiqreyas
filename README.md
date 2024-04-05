@@ -22,16 +22,16 @@
   <div id="skills">
     <h2>Skills</h2>
     <p>
-      <img class="skill-badge" src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c" alt="C">
-      <img class="skill-badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt="Python">
-      <img class="skill-badge" src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B" alt="C++">
-      <img class="skill-badge" src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=htmx" alt="HTML">
+      <img class="skill-badge" src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=f5f5f5" alt="C">
+      <img class="skill-badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=f5f5f5" alt="Python">
+      <img class="skill-badge" src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=f5f5f5" alt="C++">
+      <img class="skill-badge" src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=htmx&logoColor=f5f5f5" alt="HTML">
 <br>
-      <img class="skill-badge" src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3" alt="CSS">
-      <img class="skill-badge" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" alt="MySQL">
-      <img class="skill-badge" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk" alt="Java">
-      <img class="skill-badge" src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php" alt="PHP">
-      <img class="skill-badge" src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android" alt="Android">
+      <img class="skill-badge" src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=f5f5f5" alt="CSS">
+      <img class="skill-badge" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=f5f5f5" alt="MySQL">
+      <img class="skill-badge" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=f5f5f5" alt="Java">
+      <img class="skill-badge" src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=f5f5f5" alt="PHP">
+      <img class="skill-badge" src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=f5f5f5" alt="Android">
     </p>
   </div>
 

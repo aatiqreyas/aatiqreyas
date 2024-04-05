@@ -25,7 +25,7 @@
       <img class="skill-badge" src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=f5f5f5" alt="C">
       <img class="skill-badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=f5f5f5" alt="Python">
       <img class="skill-badge" src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=f5f5f5" alt="C++">
-      <img class="skill-badge" src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HMTL5&logoColor=f5f5f5" alt="HTML">
+      <img class="skill-badge" src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=f5f5f5" alt="HTML">
 <br>
       <img class="skill-badge" src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=f5f5f5" alt="CSS">
       <img class="skill-badge" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=f5f5f5" alt="MySQL">

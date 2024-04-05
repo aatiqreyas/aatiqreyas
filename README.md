@@ -4,7 +4,7 @@
   </a>
 </p>
 
-## Languages:
+## Languages & Tools:
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c" alt="C">

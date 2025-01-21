@@ -41,7 +41,7 @@
     <h2>Contact Me</h2>
     <ul>
       <li>Email: <a href="mailto:aatiq@mail.com">aatiq@mail.com</a></li>
-      <li>Website: <a href="https://aatiqryas.github.io">aatiqreyas.github.io</a></li>
+      <li>Website: <a href="https://aatiqreyas.github.io">aatiqreyas.github.io</a></li>
       <li>LinkedIn: <a href="https://linkedin.com/in/aatiqreyas">linkedin.com/in/aatiqreyas</a></li>
       <li>GitHub: <a href="https://github.com/aatiqreyas">github.com/aatiqreyas</a></li>
     </ul>

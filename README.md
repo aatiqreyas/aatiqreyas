@@ -11,14 +11,7 @@
 
   <div id="about-me">
     <h2>About Me</h2>
-    <p>I am passionate about software development and always eager to learn new technologies. My primary areas of expertise include:</p>
-    <ul>
-      <li>Web Development</li>
-      <li>Software Development</li>
-      <li>Mobile Development</li>
-      <li>Database Management</li>
-    </ul>
-  </div>
+    <p>Tech and Business Enthusiast</p>
 
   <div id="skills">
     <h2>Skills</h2>
